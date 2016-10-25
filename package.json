@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marcusocosta/desafio-node/issues"
   },
-  "homepage": "https://github.com/marcusocosta/desafio-node#readme"
+  "homepage": "https://github.com/marcusocosta/desafio-node#readme",
+  "devDependencies": {
+    "coveralls": "^2.11.14"
+  }
 }
